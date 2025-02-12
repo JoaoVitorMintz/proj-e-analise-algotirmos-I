@@ -1,8 +1,3 @@
-/*
-Escreva uma função que receba um número inteiro n, esse número não contém o digito 0
-(zero), e devolve n invertido, exemplo: se N igual 123 a resposta será 321.
-*/
-
 #include <stdio.h>
 
 int inverte(int n);
