@@ -11,7 +11,7 @@ int main() {
 
     Strcpy(str1, str);
 
-    printf("Tamanho da String  %s: %d", str1, strLen(str1));
+    printf("\nTamanho da String %s: %d", str1, strLen(str1));
 
     return 0;
 
@@ -19,9 +19,10 @@ int main() {
 
 int strLen(char s[]) {
     
-    for (int c = 0; s[c] != '\0'; i++) {
-        return c;
+    int c;
+    for (c = 0; s[c] != '\0'; c++) {
     }
+    return c;
 }
 
 void Strcpy(char dst[], char org[]) {
