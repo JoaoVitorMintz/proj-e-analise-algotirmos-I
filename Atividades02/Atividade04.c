@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+void troca(int v[], int i, int j);
 void separaParImpar(int v[], int n);
 
 int main () {
@@ -18,20 +19,26 @@ int main () {
     return 0;
 }
 
+void troca(int v[], int i, int j) {
+    int aux = v[i];
+    v[i] = v[j];
+    v[j] = aux;
+
+}
+
 void separaParImpar(int v[], int n) {
+    int ini = 0, fim = n - 1;
 
-    int par = 0;
-    int impar = n - 1;
-
-    while (par <= impar) {
-        if (v[par] % 2 == 0) {
-            par++;
-        } else {
-            int a = v[par];
-            v[par] = v[impar];
-            v[impar] = a;
-            impar--;
+    while (ini < fim) {
+        if (v[ini] % 2 == 0) {
+            ini++;
+        } else if (v[fim] % 2 == 1) {
+            fim--;
+        } else if (ini < fim) {
+            troca(v, ini, fim);
+            ini++; fim--;
         }
     }
+
 
 }
