@@ -46,3 +46,10 @@ os números pares no início do vetor e os números ímpares no final do vetor.
 
 
 ## Atividades 03:
+
+- Escreva um programa que leia três strings (vetor de caracteres) e encontre a maior lexicograficamente.
+- Escreva um programa que leia três strings e as apresente em ordem lexicográfica crescente
+- Escreva uma função que decida se uma vetor de caracter é ou não um palíndromo (ou seja, se o inverso do vetor é igual a ele). Escreva um programa para testar a função.
+- Escreva uma função que recebe um vetor de caractere e um caracter, a função remove todas as ocorrências do caracter na string sem deixar buracos.
+- Escreva uma função que receba um vetor de caracter e imprima uma tabela com o número de ocorrências de cada caractere no vetor. Escreva um programa para testar a função.
+
