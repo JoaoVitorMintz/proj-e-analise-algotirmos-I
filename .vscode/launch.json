@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/workspaces/proj-e-analise-algotirmos-I/Atividades03",
+      "program": "/workspaces/proj-e-analise-algotirmos-I/Atividades03/build/Debug/outDebug"
+    }
+  ]
+}
