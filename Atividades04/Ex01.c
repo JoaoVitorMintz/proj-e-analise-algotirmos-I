@@ -1,3 +1,9 @@
+/*
+ALUNO: João Vitor Garcia Aguiar Mintz
+RA: 10440421
+*/
+
+
 void troca (int *x, int *y) {
     int *temp;
     *temp = *x;

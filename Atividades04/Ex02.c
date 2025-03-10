@@ -1,3 +1,10 @@
+/*
+ALUNO: João Vitor Garcia Aguiar Mintz
+RA: 10440421
+*/
+
+
+
 #include <stdio.h>
 
 void XXX(int mnts, int *horas, int *min);

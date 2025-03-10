@@ -1,3 +1,9 @@
+/*
+ALUNO: João Vitor Garcia Aguiar Mintz
+RA: 10440421
+*/
+
+
 #include <stdio.h>
 
 void maior_menor(int vetor[], int *maior, int *menor, int tam);
