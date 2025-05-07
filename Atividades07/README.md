@@ -9,7 +9,7 @@ Ex:
 
 2. O maior divisor comum MDC de dois inteiros x e y é dado por:
 
-<img src="/images/Ex02.png" alt="Imagem equação" style="width:270px;height:90px;">
+<img src="/images/Ex02.png" alt="Imagem equação" style="width:320px;height:90px;">
 
 Escreva uma função recusiva e outra iterativa para computar o mdc(x, y).
 
