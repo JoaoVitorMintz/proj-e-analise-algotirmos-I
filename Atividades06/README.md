@@ -25,11 +25,11 @@ Problema inspirado em:
 https://www.beecrowd.com.br/judge/pt/problems/view/1029?origem=1
 
 4. A potência de um número (a^n) pode ser definida recursivamente
-<img src="/images/Ex04.png" alt="Imagem equação" style="width:100px;height:300px;">
+<img src="/images/Ex04.png" alt="Imagem equação" style="width:300px;height:120px;">
 Escreva a função recursiva que recebe um número real a e um número natural n e, sem usar
 funções da biblioteca matemática, devolve a n.
 
 5. Escreva uma função recursiva que calcula o produto de a * b, em que a e b são inteiros maiores
 que zero. considere que o produto pode ser definido como a somado a si mesmo b vezes, usando
 uma definição recursiva temos
-<img src="/images/Ex05.png" alt="Imagem equação 2" style="width:100px;height:300px;">
+<img src="/images/Ex05.png" alt="Imagem equação 2" style="width:300px;height:120px;">
