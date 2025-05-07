@@ -24,9 +24,9 @@ Faça o teste de execução para recursao(27) // FEITO EM SALA DE AULA
 Problema inspirado em:
 https://www.beecrowd.com.br/judge/pt/problems/view/1029?origem=1
 
-4. A potência de um número (a^n) pode ser definida recursivamente
+4. A potência de um número (a^n) pode ser definida recursivamente por:
 
-<img src="/images/Ex04.png" alt="Imagem equação" style="width:310px;height:100px;">
+<img src="/images/Ex04.png" alt="Imagem equação" style="width:250px;height:100px;">
 
 Escreva a função recursiva que recebe um número real a e um número natural n e, sem usar funções da biblioteca matemática, devolve a n.
 
